@@ -1,3 +1,3 @@
 # Trivia de GHOST9
-## Diviertanse
-Tomate unos minutos para jugar
+## Diviértanse
+ Tómate unos minutos para jugar
